@@ -50,7 +50,12 @@
 
 // console.log(number1 > number2);
 
-let obj = {
-  name: "john",
-  age: 18,
-};
+// let obj = {
+//   name: "john",
+//   age: 18,
+// };
+
+
+// let name = 'Akbar'
+
+// console.log(`Salom ${name}`);
